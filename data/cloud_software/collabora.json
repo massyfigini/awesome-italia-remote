@@ -3,6 +3,9 @@
   "url": "https://www.collabora.com/",
   "career_page_url": "https://www.collabora.com/careers.html",
   "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Full",
   "hiring_policy": "Contract",
   "tags": [
